@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'TH-angular-timelines-app';
+  title = 'angular-timelines-app';
 }

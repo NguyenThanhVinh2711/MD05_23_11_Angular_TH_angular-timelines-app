@@ -10,7 +10,7 @@ describe('TimelinesComponent', () => {
     TestBed.configureTestingModule({
       declarations: [ TimelinesComponent ]
     })
-    .compileComponents();
+      .compileComponents();
   }));
 
   beforeEach(() => {

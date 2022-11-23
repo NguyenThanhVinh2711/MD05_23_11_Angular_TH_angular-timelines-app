@@ -16,6 +16,7 @@ export class TimelinesComponent implements OnInit {
   ngOnInit() {
   }
 
+  // @ts-ignore
   onChange(value) {
     this.output = this.dateUtilService.getDiffToNow(value);
   }
